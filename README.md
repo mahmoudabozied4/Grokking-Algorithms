@@ -4,7 +4,7 @@
 
 ## About This Repository
 
-This repository contains my solutions and notes for **"Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"** by Aditya Bhargava. The book provides a friendly, illustrated introduction to algorithms and their practical applications.
+This repository contains my solutions and notes for [**"Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People"**](https://www.amazon.eg/-/en/Grokking-Algorithms-Illustrated-Programmers-Curious/dp/1617292230) by Aditya Bhargava. The book provides a friendly, illustrated introduction to algorithms and their practical applications.
 
 ## Progress Tracking
 
