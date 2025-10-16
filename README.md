@@ -329,7 +329,4 @@ Feel free to suggest improvements or alternative solutions! This is a learning r
 This repository is for educational purposes. Please refer to the book's official resources for complete learning materials.
 
 ---
-
-**Last Updated:** October 2025
-
 **Status:** 🚀 Just Started!
