@@ -10,7 +10,7 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 
 |Chapter|Topic|Status|Solutions|
 |---|---|---|---|
-|1|Introduction to Algorithms|⬜ Not Started|-|
+|1|Introduction to Algorithms|✅ Completed|-|
 |2|Selection Sort|⬜ Not Started|-|
 |3|Recursion|⬜ Not Started|-|
 |4|Quicksort|⬜ Not Started|-|
@@ -28,46 +28,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - 🔄 In Progress
 - ✅ Completed
 
-## Repository Structure
-
-```
-.
-├── Chapter-01-Introduction-to-Algorithms/
-│   ├── binarySearch.js
-│   └── README.md
-├── Chapter-02-Selection-Sort/
-│   ├── selectionSort.js
-│   └── README.md
-├── Chapter-03-Recursion/
-│   ├── recursionExamples.js
-│   ├── factorial.js
-│   └── README.md
-├── Chapter-04-Quicksort/
-│   ├── quicksort.js
-│   └── README.md
-├── Chapter-05-Hash-Tables/
-│   ├── hashTableExamples.js
-│   └── README.md
-├── Chapter-06-Breadth-First-Search/
-│   ├── bfs.js
-│   ├── graph.js
-│   └── README.md
-├── Chapter-07-Dijkstras-Algorithm/
-│   ├── dijkstra.js
-│   └── README.md
-├── Chapter-08-Greedy-Algorithms/
-│   ├── setCovering.js
-│   └── README.md
-├── Chapter-09-Dynamic-Programming/
-│   ├── knapsack.js
-│   ├── longestCommonSubstring.js
-│   └── README.md
-├── Chapter-10-KNN/
-│   ├── knn.js
-│   └── README.md
-└── README.md
-```
-
 ## Chapter Details
 
 ### Chapter 1: Introduction to Algorithms
@@ -77,13 +37,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Binary Search
 - Big O Notation
 - Algorithm Speed
-
-**Exercises:**
-
-- [ ] 1.1 - Binary search variations
-- [ ] 1.2 - Running time calculations
-- [ ] 1.3 - Big O analysis
-
 ---
 
 ### Chapter 2: Selection Sort
@@ -94,11 +47,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Selection Sort
 - Memory organization
 
-**Exercises:**
-
-- [ ] 2.1 - Array vs Linked List operations
-- [ ] 2.2 - Selection sort implementation
-- [ ] 2.3 - Time complexity analysis
 
 ---
 
@@ -110,12 +58,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Base case and recursive case
 - Call stack
 
-**Exercises:**
-
-- [ ] 3.1 - Recursive functions
-- [ ] 3.2 - Call stack tracing
-- [ ] 3.3 - Factorial and Fibonacci
-
 ---
 
 ### Chapter 4: Quicksort
@@ -125,14 +67,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Divide and Conquer
 - Quicksort algorithm
 - Pivot selection
-
-**Exercises:**
-
-- [ ] 4.1 - Divide and conquer examples
-- [ ] 4.2 - Quicksort implementation
-- [ ] 4.3 - Array sum using D&C
-- [ ] 4.4 - Counting elements recursively
-- [ ] 4.5 - Finding maximum value
 
 ---
 
@@ -144,13 +78,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Collisions
 - Use cases
 
-**Exercises:**
-
-- [ ] 5.1 - Hash table operations
-- [ ] 5.2 - Collision handling
-- [ ] 5.3 - Practical applications
-- [ ] 5.4 - Performance analysis
-
 ---
 
 ### Chapter 6: Breadth-First Search
@@ -160,14 +87,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Graphs
 - BFS algorithm
 - Queues
-
-**Exercises:**
-
-- [ ] 6.1 - Graph representation
-- [ ] 6.2 - BFS implementation
-- [ ] 6.3 - Shortest path problems
-- [ ] 6.4 - Graph traversal
-- [ ] 6.5 - Topological sort
 
 ---
 
@@ -179,12 +98,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Dijkstra's algorithm
 - Negative weights
 
-**Exercises:**
-
-- [ ] 7.1 - Dijkstra implementation
-- [ ] 7.2 - Weighted graph problems
-- [ ] 7.3 - Algorithm tracing
-
 ---
 
 ### Chapter 8: Greedy Algorithms
@@ -195,12 +108,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Set-covering problem
 - NP-complete problems
 
-**Exercises:**
-
-- [ ] 8.1 - Greedy algorithm design
-- [ ] 8.2 - Set covering
-- [ ] 8.3 - Scheduling problems
-- [ ] 8.4 - Approximation algorithms
 
 ---
 
@@ -211,12 +118,7 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Dynamic programming fundamentals
 - Knapsack problem
 - Longest common substring
-
-**Exercises:**
-
-- [ ] 9.1 - Knapsack variations
-- [ ] 9.2 - String matching
-- [ ] 9.3 - Longest common subsequence
+ce
 
 ---
 
@@ -229,11 +131,6 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 - Regression
 - Machine learning introduction
 
-**Exercises:**
-
-- [ ] 10.1 - KNN implementation
-- [ ] 10.2 - Distance calculations
-- [ ] 10.3 - Feature selection
 
 ---
 
