@@ -8,7 +8,6 @@
 
 export default function binarySearch(Array, item, comparatorCallback) {
     const comparator = new Comparator(comparatorCallback);
-
     let low = 0 // Lower Bound
     let high = Array.length - 1 // Upper Bound
 
@@ -24,7 +23,5 @@ export default function binarySearch(Array, item, comparatorCallback) {
             high = mid - 1;
         }
     }
-
     return -1;
 }
-
