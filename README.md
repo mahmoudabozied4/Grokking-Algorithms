@@ -9,9 +9,9 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 ## Progress Tracking
 
 |Chapter|Topic|Status|Solutions|
-|---|---|---|---|
-|1|Introduction to Algorithms|⬜ Not Started|-|
-|2|Selection Sort|⬜ Not Started|-|
+|---|---|---|-|
+|1|Introduction to Algorithms|✅ Completed|✅|
+|2|Selection Sort|🔄 In Progress|🔄|
 |3|Recursion|⬜ Not Started|-|
 |4|Quicksort|⬜ Not Started|-|
 |5|Hash Tables|⬜ Not Started|-|
@@ -80,9 +80,9 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 
 **Exercises:**
 
-- [ ] 1.1 - Binary search variations
-- [ ] 1.2 - Running time calculations
-- [ ] 1.3 - Big O analysis
+- [X] 1.1 - Binary search variations
+- [X] 1.2 - Running time calculations
+- [X] 1.3 - Big O analysis
 
 ---
 
@@ -96,7 +96,7 @@ This repository contains my solutions and notes for [**"Grokking Algorithms: An 
 
 **Exercises:**
 
-- [ ] 2.1 - Array vs Linked List operations
+- [X] 2.1 - Array vs Linked List operations
 - [ ] 2.2 - Selection sort implementation
 - [ ] 2.3 - Time complexity analysis
 
